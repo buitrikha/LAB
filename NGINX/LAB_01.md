@@ -1,8 +1,8 @@
 # NGINX làm Reverse Proxy và Loadbalance
 ## NGINX làm LB
-1. Mô hình
+1. Mô hình   
    ![alt text](image.png)
-2.  Cấu hình server Nginx:    
+3.  Cấu hình server Nginx:    
     Cài đặt Nginx trên 192.168.1.11:  
     ```bash
     sudo apt install nginx -y 
@@ -68,7 +68,7 @@
       ```
       sudo nginx -s reload
       ```
-3. Trên máy có ip 192.168.1.11 & 192.168.1.10   
+4. Trên máy có ip 192.168.1.11 & 192.168.1.10   
    Tạo 2 đoạn code đơn giản chạy code Nodejs   
    Cài nodejs trên 2 server này:   
    ```
