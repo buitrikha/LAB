@@ -1,6 +1,6 @@
 # NGINX làm Reverse Proxy và Loadbalance
 ## NGINX làm LB
-1. Mô hình   
+1. Mô hình   đ
    ![alt text](image.png)
 3.  Cấu hình server Nginx:    
     Cài đặt Nginx trên 192.168.1.11:  
